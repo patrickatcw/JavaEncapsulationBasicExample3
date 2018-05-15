@@ -47,5 +47,6 @@ public class Encapsulate {
     public void setPlayerHeight(int newHeight) {
         //this.playerHeight = playerHeight;
         playerHeight = newHeight;
+
     }
 }
